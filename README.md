@@ -16,6 +16,12 @@ SERGO Harness is an internal developer tool built to make AI-assisted developmen
 - CLI and desktop workflows;
 - deterministic automated testing.
 
+## Interface
+
+![SERGO Harness workflow](assets/harness-workflow.png)
+
+This screenshot uses a disposable demo project created only for the portfolio. It contains no production repository paths, credentials, private task records or personal data.
+
 ## Verified state
 On **2026-09-14**, the local automated test suite completed with **432 passed, 0 failed**.
 
